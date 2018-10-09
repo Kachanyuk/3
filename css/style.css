@@ -1,0 +1,75 @@
+*{
+padding: 0px; 
+margin: 0px;
+font-family: 'Playfair Display', 'Ubuntu', sans-serif;
+color: #626262;
+}
+div {
+width: 900px; 
+margin: 75px auto 70px;
+}
+.header_nav{
+    margin-left:120px;
+}
+
+.nav_item {
+display: inline-block;
+margin-right: 120px;
+}
+a:hover{
+    color: #03a9f4;
+    transition: 1s;
+}
+a{
+text-decoration: none;
+text-transform: uppercase;
+color: #626262;
+font-size: 14px;
+}
+.header_nav{
+    margin-bottom: 100px;
+}
+.subtitle {
+font-family: Ubuntu;
+text-transform: uppercase;
+color: #b4ad9e;
+font-size: 14px;
+margin-bottom: 30px;
+}
+article {
+
+    margin-right: 28px;
+}
+img{
+margin-bottom: 30px;
+
+
+}
+.title{
+font-size: 30px;
+font-weight: 300;
+}
+.text{
+font-size: 14px;
+line-height: 1.6;
+margin-bottom: 130px;
+}
+button{
+font-size: 20px;
+width: 160px;
+height: 60px;
+background-color: #ffffff;
+text-decoration: none;
+border: 1px solid #626262;
+margin-left: 360px; 
+}
+button:hover {
+    color: #03a9f4;
+    cursor: pointer;
+    transition: 1s;
+}
+
+article{
+width: 420px;
+display: inline-block;
+}
